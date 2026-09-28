@@ -140,25 +140,15 @@ The simulated radiation characteristics provide information about how the antenn
 
 ---
 
-📁 Repository Structure
-
-7.9GHz-SIW-Slot-Antenna-HFSS/
+📁 7.9GHz-SIW-Slot-Antenna-HFSS/
 │
-├── HFSS_Project/
-│   └── HFSS design files
-│
-├── Simulation_Results/
-│   └── electromagnetic simulation outputs
-│
-├── Antenna_specifications.png
-├── Design_parameters.png
-├── Initial Design.png
-├── Final_Optimized_Design.png
-├── Key_Performance_Summary_Table.png
-│
-├── LICENSE
-└── README.md
-
+├── README.md
+├── SIW_Slot_Antenna_7GHz.aedt
+├── Antenna_Design_Specifications.png
+├── SIW_Design_Parameters.png
+├── Initial_Antenna_Design.png
+├── Optimized_Antenna_Design.png
+└── Performance_Summary.png
 ---
 
 🧠 Skills Demonstrated
